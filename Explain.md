@@ -2,3 +2,5 @@
 Video Week 1 (10/5): [Breaking Down Drawing a House](https://youtu.be/GlBEsRA8rbE?si=zuFdqalBUEe6VCO2)
 
 Video Week 2 (10/8): [Breaking Down Breakdancing](https://youtu.be/ICQG8o6PiAo?si=3vuptHIf5dY5BdpG)
+
+Video Week 3 (10/12): [Scratch](https://youtu.be/POegoqmSFko?si=Da5lP9NsocreV93k)
