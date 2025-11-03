@@ -10,3 +10,5 @@ Video Week 3.1 (10/19): [Nested Ratpeat](https://youtu.be/r_Gu6z5bQxc?si=Ud5YBB2
 Video Week 3.2 (10/19): [Eventful Monkey](https://youtu.be/nCJJgGs9y6w?si=s_5Z8PHzoNjALWin)
 
 Video Week 4 (10/26): [Shapes and Colors with Variables](https://youtu.be/HCoyXZVESHg?si=txngMooKqCxZ1V2n)
+
+Video Week 5 (11/02): [Catch Me](https://youtu.be/I23vC13A6GU?si=KGcbsYU3X9-aBnlK)
