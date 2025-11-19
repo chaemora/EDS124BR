@@ -14,3 +14,5 @@ Video Week 4 (10/26): [Shapes and Colors with Variables](https://youtu.be/HCoyXZ
 Video Week 5 (11/02): [Catch Me](https://youtu.be/I23vC13A6GU?si=KGcbsYU3X9-aBnlK)
 
 Video Week 6 (11/9): [If Else Ball](https://youtu.be/cfPM6duYO-k?si=nMuHUoArILb-awj0)
+
+Video Week 7 (11/16): [Nested Penguin](https://youtu.be/I2i0yucEb58?si=fsHR9MNU7HiQkDJI)
