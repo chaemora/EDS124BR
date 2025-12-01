@@ -18,3 +18,5 @@ Video Week 6 (11/9): [If Else Ball](https://youtu.be/cfPM6duYO-k?si=nMuHUoArILb-
 Video Week 7 (11/16): [Nested Penguin](https://youtu.be/I2i0yucEb58?si=fsHR9MNU7HiQkDJI)
 
 Video Week 8 (11/23): [Compound Conditionals](https://youtu.be/gAycr89x-zM?si=B4OJdXMm3ieR-Dcz)
+
+Video Week 9 (11/30): [Painting a Picture](https://youtu.be/HPCN3mE-hAc?si=pbt29O1Ps6GxfvBC)
