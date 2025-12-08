@@ -20,3 +20,5 @@ Video Week 7 (11/16): [Nested Penguin](https://youtu.be/I2i0yucEb58?si=fsHR9MNU7
 Video Week 8 (11/23): [Compound Conditionals](https://youtu.be/gAycr89x-zM?si=B4OJdXMm3ieR-Dcz)
 
 Video Week 9 (11/30): [Painting a Picture](https://youtu.be/HPCN3mE-hAc?si=pbt29O1Ps6GxfvBC)
+
+Video Week 10 (12/7): [Country List](https://youtu.be/Y4BOONUzf8o?si=6_hHt3pNAYztbPD5)
